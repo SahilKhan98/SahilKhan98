@@ -1,7 +1,4 @@
 # Hi there, I'm Sahil Khan! 👋
-
-## About Me
-
 I am a passionate and detail-oriented Data Analyst with a keen interest in extracting meaningful insights from data. My goal is to leverage my analytical skills to solve complex problems and contribute to data-driven decision-making processes.
 
 - 🎓 Graduated with a degree in [B.sc Math] from [UPRTOU University]
@@ -26,5 +23,5 @@ Here are some highlights of my recent projects:
 
 ## Connect with Me
 
-- LinkedIn: [ LinkedIn Profile](Link to LinkedIn)
+- LinkedIn: mailto:https://www.linkedin.com/in/sahil-khan-19835621a
 - Email: [sahil421998@gmail.com]
